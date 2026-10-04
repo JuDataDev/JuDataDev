@@ -1,34 +1,65 @@
-## Salut, je suis Julien 👋
+# 👋 Salut, je suis Julien
+
 ## Data Engineer & Développeur Back-end Freelance
 
-J'aide les entreprises et les ESN à structurer leurs données, concevoir des pipelines robustes et automatiser leurs processus métiers. 
+Je conçois des solutions autour de la donnée, de l'automatisation
+et du développement back-end.
 
-### 🛠️ Ma Stack Technique
-- **Langages :** Python, TypeScript, SQL
-- **Bases de données :** PostgreSQL, Supabase
-- **Outils & Écosystème :** API REST, Intégration IA (Gemini), Git, Environnements virtuels
-- **Domaines d'expertise :** Traitement de données, Automatisation, Scripting, Architecture Back-end
+J'aime transformer des données brutes en informations exploitables
+et automatiser les tâches répétitives avec Python.
 
-### 🚀 Ce que je fais
-- **Ingénierie des données :** Conception, extraction, transformation et chargement (ETL) de données.
-- **Modélisation :** Structuration et optimisation de bases de données relationnelles.
-- **Automatisation :** Création de scripts Python pour remplacer les tâches manuelles chronophages.
+## 🛠️ Stack technique
 
-### 📫 Travaillons ensemble
-Je suis disponible pour des missions de sous-traitance (freelance / B2B) en remote.
-- **Email pro :** contact.j.data.dev@gmail.com
+### Data
+- Python
+- SQL
+- PostgreSQL
+- ETL / Data Pipelines
 
-<!--
-**JuDataDev/JuDataDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend
+- FastAPI
+- API REST
+- TypeScript
 
-Here are some ideas to get you started:
+### Outils & environnement
+- Git / GitHub
+- Linux
+- Supabase
+- Environnements virtuels
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### IA
+- Intégration d'API IA
+- Gemini API
+- Automatisation assistée par IA
+
+## 🚀 Ce que je développe
+
+- Pipelines ETL
+- Traitement et transformation de données
+- Bases de données PostgreSQL
+- APIs REST
+- Automatisations Python
+- Applications intégrant des services IA
+
+## 📂 Projets
+
+### MajorIA
+Application IA multimodale intégrant Gemini, Supabase et
+une architecture web moderne.
+
+➡️ Voir le projet : `major2ia-showcase`
+
+### 🔜 Data Pipeline ETL
+Pipeline Python pour automatiser l'extraction,
+la transformation et le chargement de données.
+
+### 🔜 FastAPI Backend
+API REST Python avec FastAPI et PostgreSQL.
+
+## 🤝 Freelance
+
+Disponible pour des missions **Data Engineering / Backend / Automation**.
+
+🌍 Remote — France & International
+
+📧 contact.j.data.dev@gmail.com
