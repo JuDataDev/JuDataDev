@@ -13,8 +13,9 @@ et automatiser les tâches répétitives avec Python.
 ### Data
 - Python
 - SQL
-- PostgreSQL
+- Dbeaver
 - ETL / Data Pipelines
+- Power BI
 
 ### Backend
 - FastAPI
@@ -56,9 +57,7 @@ la transformation et le chargement de données.
 ### 🔜 FastAPI Backend
 API REST Python avec FastAPI et PostgreSQL.
 
-## 🤝 Freelance
-
-Disponible pour des missions **Data Engineering / Backend / Automation**.
+**Data Engineering / Backend / Automation**.
 
 🌍 Remote — France & International
 
